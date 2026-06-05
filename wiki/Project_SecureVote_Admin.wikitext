@@ -1,0 +1,4 @@
+{{DISPLAYTITLE:Project:SecureVote/Admin}}
+<div class="securevote-admin">
+<div style="border:1px solid #d8e0e8;background:#f8fafc;border-radius:8px;padding:22px;margin:18px 0;color:#475569;line-height:1.7;">SecureVote admin panel is loading. If you do not have permission, private vote records will not be shown.</div>
+</div>
