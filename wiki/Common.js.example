@@ -1,0 +1,2 @@
+/* Site-wide SecureVote loader. Update sv=... after changing the script to bypass ResourceLoader/browser caches. */
+mw.loader.load('/w/index.php?title=MediaWiki:Gadget-SecureVote.js&action=raw&ctype=text/javascript&sv=1');
