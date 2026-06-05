@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "polls": {
+    "example-2026-01": {
+      "title": "Example private vote",
+      "description": "Choose one option according to the rules on the voting page.",
+      "enabled": true,
+      "start": "2026-06-05T00:00:00+08:00",
+      "end": "2026-06-12T23:59:59+08:00",
+      "allowReason": true,
+      "options": [
+        { "id": "support", "label": "Support" },
+        { "id": "neutral", "label": "Neutral" },
+        { "id": "oppose", "label": "Oppose" },
+        { "id": "abstain", "label": "Abstain" }
+      ]
+    }
+  }
+}
