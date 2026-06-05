@@ -1,0 +1,7 @@
+/* SecureVote private ballot box
+ * Replace YOUR_PROJECT_NAMESPACE with your wiki's project namespace name.
+ * On many MediaWiki installations this is the wiki/site name; the canonical Project: alias may not match page_prefixedtitle.
+ */
+action == "edit" &
+page_prefixedtitle == "YOUR_PROJECT_NAMESPACE:SecureVote/Submit" &
+new_wikitext contains "__SECUREVOTE__"
