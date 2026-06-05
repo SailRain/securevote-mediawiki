@@ -1,0 +1,10 @@
+<includeonly><div class="securevote-anchor" data-securevote-id="{{{id|}}}"><div class="securevote-message securevote-warn">Please log in before participating in this private vote.</div></div></includeonly><noinclude>
+{{DISPLAYTITLE:Template:SecureVote}}
+
+This template provides the anchor used by the SecureVote JavaScript gadget.
+
+== Usage ==
+<pre>{{SecureVote|id=example-2026-01}}</pre>
+
+The value of <code>id</code> must match a poll key in <code>MediaWiki:SecureVote-config.json</code>.
+</noinclude>
