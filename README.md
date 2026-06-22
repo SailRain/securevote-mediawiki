@@ -1,6 +1,20 @@
-# SecureVote for MediaWiki
+<h1 align="center">SecureVote for MediaWiki</h1>
 
-[中文说明](README.zh-CN.md)
+<p align="center">
+  Lightweight private voting for MediaWiki communities without SecurePoll access.
+</p>
+
+<p align="center">
+  <img alt="license MIT" src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square">
+  <img alt="MediaWiki gadget" src="https://img.shields.io/badge/MediaWiki-gadget-3366cc?style=flat-square">
+  <img alt="private voting" src="https://img.shields.io/badge/private-voting-6f42c1?style=flat-square">
+  <img alt="AbuseFilter" src="https://img.shields.io/badge/AbuseFilter-ready-005f73?style=flat-square">
+  <img alt="Miraheze ready" src="https://img.shields.io/badge/Miraheze-ready-0a7f64?style=flat-square">
+</p>
+
+<p align="center">
+  <strong>English</strong> | <a href="README.zh-CN.md">中文</a>
+</p>
 
 SecureVote is a lightweight private voting tool for MediaWiki wikis. It is designed for communities that want SecurePoll-like private voting but do not have access to the SecurePoll extension.
 
