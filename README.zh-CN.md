@@ -1,6 +1,20 @@
-# SecureVote for MediaWiki
+<h1 align="center">SecureVote for MediaWiki</h1>
 
-[English README](README.md)
+<p align="center">
+  面向无法使用 SecurePoll 的 MediaWiki 社区的轻量级私有投票工具。
+</p>
+
+<p align="center">
+  <img alt="license MIT" src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square">
+  <img alt="MediaWiki gadget" src="https://img.shields.io/badge/MediaWiki-gadget-3366cc?style=flat-square">
+  <img alt="private voting" src="https://img.shields.io/badge/private-voting-6f42c1?style=flat-square">
+  <img alt="AbuseFilter" src="https://img.shields.io/badge/AbuseFilter-ready-005f73?style=flat-square">
+  <img alt="Miraheze ready" src="https://img.shields.io/badge/Miraheze-ready-0a7f64?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="README.md">English</a> | <strong>中文</strong>
+</p>
 
 SecureVote 是一个用于 MediaWiki 驱动 wiki 的轻量级私有投票工具。它适用于没有 SecurePoll 扩展权限、但希望实现类似“普通用户无法看到票数和投票人、授权查验员可以后台计票”的社区。
 
